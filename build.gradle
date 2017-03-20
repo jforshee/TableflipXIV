@@ -1,0 +1,17 @@
+apply plugin: 'java'
+apply plugin: 'maven-publish'
+
+version = '0.0.1'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+publishing {
+    publications {
+        maven(MavenPublication) {
+            groupId 'io.github.thebalanceffxiv'
+            artifactId 'TableflipXIV'
+            from components.java
+        }
+    }
+}
