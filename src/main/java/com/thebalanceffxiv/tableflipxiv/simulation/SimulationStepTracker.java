@@ -1,7 +1,7 @@
-package io.github.thebalanceffxiv.tableflipxiv.simulation;
+package com.thebalanceffxiv.tableflipxiv.simulation;
 
 import com.google.common.collect.HashMultimap;
-import io.github.thebalanceffxiv.tableflipxiv.helpers.CompletableFutureHelper;
+import com.thebalanceffxiv.tableflipxiv.helpers.CompletableFutureHelper;
 
 import java.time.Duration;
 import java.util.LinkedList;

@@ -1,4 +1,4 @@
-package io.github.thebalanceffxiv.tableflipxiv.simulation;
+package com.thebalanceffxiv.tableflipxiv.simulation;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;

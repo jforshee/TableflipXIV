@@ -1,4 +1,4 @@
-package io.github.thebalanceffxiv.tableflipxiv.helpers;
+package com.thebalanceffxiv.tableflipxiv.helpers;
 
 import java.util.List;
 import java.util.concurrent.CompletableFuture;

@@ -1,6 +1,6 @@
-package io.github.thebalanceffxiv.tableflipxiv.simulation.actor;
+package com.thebalanceffxiv.tableflipxiv.simulation.actor;
 
-import io.github.thebalanceffxiv.tableflipxiv.simulation.SimulationStepTracker;
+import com.thebalanceffxiv.tableflipxiv.simulation.SimulationStepTracker;
 
 import java.time.Duration;
 import java.util.Collections;
